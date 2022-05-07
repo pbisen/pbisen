@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **f20190113@pilani.bits-pilani.ac.in**
 
-- 📄 Know about my experiences [https://tinyurl.com/pbisen-resume](https://tinyurl.com/pbisen-resume)
+- 📄 Know about my experiences [https://tinyurl.com/parthb-resume](https://tinyurl.com/pbisen-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
