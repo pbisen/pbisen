@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
 
-- 🔭 I’m currently working on [homie](https://devfolio.co/submissions/homie-ab31)
+- 🔭 I’m currently working on Zero-Knowledge Proofs w/ HarmonyZKU.
 
 - 🌱 I’m currently learning **Web Development**
 
