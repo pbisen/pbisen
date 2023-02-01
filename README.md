@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">A passionate blockchain developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on automating content creation.<br>👯 I’m looking to collaborate on Social Graphs<br>🤝 I’m looking for help with Solana's Development Ecosystem<br>🌱 I’m currently learning Rust and WASM<br>💬 Ask me about Frontend Development :)<br>⚡ Fun fact, I have a very contagious laugh, so working with me is a laughter fest 
